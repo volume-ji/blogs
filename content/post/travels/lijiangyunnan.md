@@ -88,8 +88,6 @@ thumbnail = "/images/travels/lijiangyunnan/luguhuquanjing.jpeg"
 
 ![蓝月谷牦牛](/images/travels/lijiangyunnan/lanyuegumaoniu.jpeg "蓝月谷牦牛")
 
-![蓝月谷自拍](/images/travels/lijiangyunnan/lanyueguzipai.jpeg "蓝月谷自拍")
-
 ---
 
 ### 拉市海
@@ -133,8 +131,6 @@ thumbnail = "/images/travels/lijiangyunnan/luguhuquanjing.jpeg"
 
 ![泸沽湖](/images/travels/lijiangyunnan/luguhu1.jpeg "泸沽湖")
 
-![泸沽湖自拍](/images/travels/lijiangyunnan/luguhuzipai.jpeg "泸沽湖自拍")
-
 ---
 
 ### 走婚桥
@@ -149,8 +145,6 @@ thumbnail = "/images/travels/lijiangyunnan/luguhuquanjing.jpeg"
 ![草海](/images/travels/lijiangyunnan/caohai1.jpeg "草海")
 
 ![草海](/images/travels/lijiangyunnan/caohai2.jpeg "草海")
-
-![走婚桥自拍](/images/travels/lijiangyunnan/zouhunqiaozipai.jpeg "走婚桥自拍")
 
 ---
 
